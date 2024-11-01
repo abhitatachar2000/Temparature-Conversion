@@ -1,0 +1,21 @@
+body {
+    background-color: hsl(0, 0%, 95%);
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.convertor-container {
+    margin: auto;
+    width: 380px !important;
+    height: auto;
+    display: flex;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px rgb(178, 178, 178);
+}
+
+.convertor-container h5 {
+    color: rgb(52, 112, 253);
+    font-size: 1.5em;
+}
